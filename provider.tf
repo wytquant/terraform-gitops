@@ -7,7 +7,7 @@ terraform {
     }
   }
   cloud {
-    organization = "AorJoa-DevOps-Training"
+    organization = "Wyt-DevOps-Training"
 
     workspaces {
       name = "devops-infra"
